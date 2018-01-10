@@ -1,5 +1,5 @@
 package principal;
-//version3.000000000
+//version4
 public class Primitive {
 	
 	public static void main(String[] args) {
